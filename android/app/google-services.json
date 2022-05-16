@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193452068402",
+    "project_id": "dam-flutter-login",
+    "storage_bucket": "dam-flutter-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193452068402:android:ac9876b777580bc872362b",
+        "android_client_info": {
+          "package_name": "com.example.producto_integrador_dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193452068402-4ltgn0bss3uoi7huihko8bjgkouueblf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvIHBd_MLN2EPigXk1nikikBYMvmM2wms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193452068402-4ltgn0bss3uoi7huihko8bjgkouueblf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
